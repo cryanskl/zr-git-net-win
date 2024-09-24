@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "zr_git_net_win": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7163",
+      "launchBrowser": false
+    }
+  }
+}
